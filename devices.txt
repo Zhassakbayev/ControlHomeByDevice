@@ -1,0 +1,9 @@
+Dishwasher
+TV
+kettle
+Washer
+fridge
+a computer
+toaster
+plate
+microwave
